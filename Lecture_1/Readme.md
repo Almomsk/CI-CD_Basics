@@ -9,4 +9,4 @@
 * task_3: Попробовать сохранить артефакт одной стадии + исключить из папки с артефактами любой файл
 * task_4: Попробовать сделать любую git lab pages
 
-[Реализация](https://github.com/Almomsk/CI-CD%Basics/tree/main/Lecture%26Seminar_1)
+[Реализация](https://github.com/Almomsk/CI-CD_Basics/tree/main/Lecture_1)
